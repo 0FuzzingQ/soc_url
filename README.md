@@ -14,7 +14,7 @@ SVM使用长度，熵，特殊字符等作为特征
 
 LSTM为单层单向
 
-demo使用10000先王真是日志作为数据集，其中normal/attack各5000条，acc:
+demo使用10000现网真实日志作为数据集，其中normal/attack各5000条，acc:
 
 SVM~85% ; HMM~90% ; LSTM~99%
 
